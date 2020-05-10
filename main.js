@@ -3,7 +3,7 @@ const app = express()
 const generator = require('./generator')
 const path = require('path')
 
-app.listen(8080, function(){
+app.listen(process.env.PORT, function(){
     console.log("Listening 8080")
 })
 
