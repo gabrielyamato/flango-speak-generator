@@ -1,0 +1,24 @@
+{
+  "name": "flango-speak-generator",
+  "version": "1.0.0",
+  "description": "FlangoSpeakGenerator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielyamato/flango-speak-generator.git"
+  },
+  "keywords": [
+    "Flango",
+    "Speak",
+    "Generator"
+  ],
+  "author": "Gabriel Yamato Joao Pedro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielyamato/flango-speak-generator/issues"
+  },
+  "homepage": "https://github.com/gabrielyamato/flango-speak-generator#readme"
+}
