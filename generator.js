@@ -8,7 +8,7 @@ const words_data = {
 module.exports.random_generator= function random_generator(){
    var result = []
     for (var key of Object.keys(words_data)) {
-        result.push(words_data[key] [Math.round(Math.random()*(9-0) + 0)])
+        result.push(words_data[key][Math.floor(Math.random() * (10))])
     }
    return result
 }
